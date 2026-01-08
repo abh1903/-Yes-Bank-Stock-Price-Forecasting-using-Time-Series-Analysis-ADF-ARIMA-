@@ -136,7 +136,6 @@ Author & Contact
 Your Name
 📧 Email: your_email@example.com
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn:(https://www.linkedin.com/in/abhishek-rathore-lr/)
 
-💻 GitHub: https://github.com/abh1903
 
