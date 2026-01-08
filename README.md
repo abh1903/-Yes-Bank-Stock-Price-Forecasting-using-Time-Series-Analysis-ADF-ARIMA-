@@ -140,28 +140,3 @@ Your Name
 
 💻 GitHub: https://github.com/abh1903
 
-
----
-
-✅ **All Anchor Links Work**  
-Clicking any link in the Table of Contents (like Overview, Dataset, etc.) will take the user directly to that section.
-
----
-
-### 📌 Next Step (Optional but powerful)
-
-📸 **Add screenshots of your plots** (forecast plot, ADF test output, EDA charts) below each section (Visuals help recruiters instantly understand your work).
-
-Example:
-```md
-## Forecasting
-
-![Forecast Plot](images/forecast_plot.png)
-
-
-If you want, I can also:
-✔ Add badges (Python version, notebook status)
-✔ Add live preview GIF of your forecast
-✔ Make it look even more professional for recruiters
-
-Just tell me 👍
